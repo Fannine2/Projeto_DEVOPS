@@ -7,3 +7,5 @@ Este projeto serve para reunir os estudos acerca dos fundamentos e tecnologias D
 
 _______________________________________________________________________________________
 
+Utilizando os conhecimentos adquiridos ao longo dos estudos, decidi implantar um projeto simples que já havia desenvolvido anteriormente, composto por um frontend e um backend seguindo a topologia abaixo:
+

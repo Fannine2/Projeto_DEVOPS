@@ -1,0 +1,3 @@
+[submodule "projects/finances"]
+	path = projects/finances
+	url = git@gitlab.com:devops-study-br/finances.git
